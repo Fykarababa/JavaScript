@@ -104,5 +104,7 @@ array5.concat([8, 9, 10]) // Diziyi başka bir dizi ile birleştirir.
 array5.concat([11, 12, 13], [14, 15, 16]) // 3 diziyi birleştirir.
 array5.slice(0) // Dizinin verilen anahtarlı değerini diziden ayırır
 
-//Örnekleri Çağatay Çalı'dan almış olup Doğum günün kutlarım :)
+
+//Örnekleri Çağatay Çalı'dan almış olup Doğum gününü kutlarım :)
+
 //Kaynak https://cagatay.me/javascript-i%CC%87le-temel-dizi-i%CC%87%C5%9Flemleri-javascript-array-operations-de040d8ac41e
